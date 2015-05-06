@@ -1,4 +1,3 @@
-# NYC-Auto-Accidents
+#New York City Car Accidents Analysis
 
-
-TESTING
+In this repository, I decided to analyze data that tracks New York City's auto collisions that can be found [here](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95). At the time of my analysis, the website only had data available from July 1, 2012 - April 14, 2015. More explanation and a detailed analysis is presented in the pdf I uploaded [here](https://github.com/Paul-Jimenez/NYC-Auto-Accidents/blob/master/NYC_FINAL_Auto_Report.pdf). Thanks for reading!
